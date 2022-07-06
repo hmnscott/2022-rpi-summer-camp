@@ -1,4 +1,4 @@
-# 2022-rpi-summer-camp
+# 2022 Raspberry Pi Summer Camp
 
 
 
