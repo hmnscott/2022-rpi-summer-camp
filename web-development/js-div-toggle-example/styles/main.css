@@ -1,0 +1,28 @@
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: auto;
+    padding: 0 40px;
+}
+
+#toggle-me {
+    padding: 2em 1em;
+    margin: 1em 0;
+    background-color: #FF006E;
+    color: white;
+}
+
+.dark-mode {
+    background-color: #3A86FF !important;
+}
+
+.btn {
+    background-color: #8338EC;
+    border: 0;
+    height: 45px;
+    padding: 0 20px;
+    margin: 5px 10px;
+    color: white;
+    border-radius: 5px;
+    font-size: larger;
+}
