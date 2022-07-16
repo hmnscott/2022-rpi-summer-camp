@@ -7,8 +7,8 @@
     - [Creating files and directories](#creating-files-and-directories)
     - [Nano](#nano)
     - [Getting help on a command](#getting-help-on-a-command)
-    - [Install htop](#install-htop)
-    - [Install cowsay and add to .bashrc](#install-cowsay-and-add-to-bashrc)
+    - [Install cowsay, figlet, linuxlogo and add to .bashrc](#install-cowsay-figlet-linuxlogo-and-add-to-bashrc)
+    - [Install htop, hwinfo, ncal](#install-htop-hwinfo-ncal)
     - [Install bsdgames](#install-bsdgames)
     - [Use the command line to solve Wordle](#use-the-command-line-to-solve-wordle)
     - [Add second user](#add-second-user)
@@ -17,6 +17,10 @@
     - [Create and add directory to PATH](#create-and-add-directory-to-path)
     - [Example python script](#example-python-script)
   - [Python](#python)
+    - [Python challenges](#python-challenges)
+    - [Python command line games](#python-command-line-games)
+    - [Example games and game software](#example-games-and-game-software)
+  - [Web Development](#web-development)
   - [Electronics](#electronics)
     - [Light LED with 9V battery](#light-led-with-9v-battery)
     - [Intruder alarm](#intruder-alarm)
@@ -96,45 +100,70 @@ whatis ls
 curl cht.sh/ls
 ```
 
-### Install htop
-```bash
-# check to see if htop is installed
-which htop
-
-# install htop if not already installed
-sudo apt install htop
-```
-
-### Install cowsay and add to .bashrc
+### Install cowsay, figlet, linuxlogo and add to .bashrc
 ```shell
 # update
 sudo apt update
 
 # search for package
 apt search cowsay
+apt search figlet
+apt search linuxlogo
 
 # show description of package
 apt show cowsay
+apt show figlet
+apt show linuxlogo
 
 # install package
 sudo apt install cowsay
+sudo apt install figlet
+sudo apt install linuxlogo
 
-cowsay "hello"
+# check to see if packages are installed
+which cowsay
+which figlet
+
+# try this
+cowsay "hello $USER"
+figlet "hello $USER"
+linuxlogo -u
 
 # list all available art types
 cowsay -l
 
+# try this
 cowsay -f stegosaurus "hello"
 ```
 
-Open .bashrc and add the following line.
+Open .bashrc and add the following line at the end of file.
 ```
-cowsay "hello"
+linuxlogo -u
+cowsay "Hello"
 ```
 
 Reload .bashrc file.
 ```shell
 . ~/.bashrc
+```
+
+### Install htop, hwinfo, ncal
+```bash
+# check to see if packages are installed
+which htop
+which hwinfo
+which ncal
+
+# update repositories info
+sudo apt update
+
+# install packages if not already installed
+sudo apt install htop
+sudo apt install hwinfo
+sudo apt install ncal
+
+# try
+cal 1752
 ```
 
 ### Install bsdgames
@@ -190,7 +219,8 @@ mkdir ~/bin
 # create script file in ~/bin
 
 # make file executable 
-chmod 755 {file name}
+chmod 755 {file name}  # or
+chmod 700 {file name}
 
 # add local user bin directory to path
 # add this to .bash_rc
@@ -222,18 +252,58 @@ chmod 755 ask_name.py
 
 ## Python
 * Work through the Programming with Mosh cheat sheet
-* Write a function that multiplies two numbers the user inputs.
-* Write a program that adds all of the numbers from 1 to 1000.
-* Write a program that adds all of the numbers from 1 to N.
+
+### Python challenges
+* Write a program that asks a user for his or her name and greets the user.
+* Write a function that multiplies two numbers that the user inputs.
+* Write a program that adds all of the integers from 1 to 1000.
+  * Try using a formula instead of brute force.
+* Write a program that adds all of the integers from 1 to N. Let the user input N.
 * Write a program that adds all multiples of 8 from 1 to 1000.
 * Write a program that adds all multiples of 8 from 1 to N.
 * Write a program that adds all multiples of a from 1 to N. Let the user input a and N.
-* Write a program that prints out all numbers that are either multiples of 8 or multiples of 12.
+* Write a program that prints out all numbers that are either multiples of 8 or multiples of 12 from 1 to 100.
 * FizzBuzz challenge: Print integers from 1 to N. However, print "Fizz" if an integer is divisible by 3, print "Buzz" if an integer is divisible by 5, and print "FizzBuzz" if an integer is divisible by both 3 and 5.
+
+```bash
+# example output for fizzbuzz
+1
+2
+fizz
+4
+buzz
+fizz
+7
+8
+fizz
+buzz
+11
+fizz
+13
+14
+fizzbuzz
+```
+
 * [First Project Euler challenge](https://projecteuler.net/problem=1)
+
+### Python command line games
 * [Guess the Number game](https://inventwithpython.com/invent4thed/chapter3.html)
 * [Dragon Realm game](https://inventwithpython.com/invent4thed/chapter5.html)
 
+* [Convert text to ascii art](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+
+
+### Example games and game software
+* [80 Days](https://www.youtube.com/watch?v=D2CWdaJTikQ)
+* [Ren'Py](https://www.renpy.org/) - visual novel game engine, uses python
+* [Twine](https://twinery.org/)
+* [Inky](https://www.inklestudios.com/ink/) - used to write 80 Days
+
+
+## Web Development
+* [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
+* [w3schools](https://www.w3schools.com/)
+* [Web Development Essentials](https://learning.lpi.org/en/learning-materials/030-100/)
 
 ## Electronics
 
