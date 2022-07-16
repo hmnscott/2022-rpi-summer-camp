@@ -27,6 +27,7 @@
 
 ### Books
 * [The Linux Command Line](https://linuxcommand.org/index.php)
+* [Linux Essentials](https://learning.lpi.org/en/learning-materials/010-160/)
 
 ## Python
 
@@ -57,7 +58,7 @@
 * [Exercism](https://exercism.org/)
 
 ### Example Games
-* 80 days
+* [80 days](https://www.youtube.com/watch?v=D2CWdaJTikQ)
 
 ## Computer Science
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
@@ -70,16 +71,69 @@
 * [Kali Linux (website)](https://www.kali.org/)
 
 ### Hacking Games
-* [Bandit](https://overthewire.org/wargames/bandit/)
+* [Over the Wire](https://overthewire.org/wargames/)
+  * [Bandit](https://overthewire.org/wargames/bandit/)
 * [Hack the Box](https://www.hackthebox.com/)
 
-## Web development
-* [Free Code Camp](#)
-* MDN tutorials for HTML/CSS/JavaScript
 
+## Git
+
+### Videos
+* [Git and GitHub for Beginners Tutorial](https://www.youtube.com/watch?v=tRZGeaHPoaw)
+* [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
+* [Git Essentials](https://www.youtube.com/watch?v=u1Zvkqjx0Ik)
+
+
+## Web development
+### Videos
+* [FreeCodeCamp YouTube Channel](https://www.youtube.com/c/Freecodecamp)
+* [Coder Coder YouTube Channel](https://www.youtube.com/c/TheCoderCoder)
+* [Traversy Media YouTube Channel](https://www.youtube.com/c/TraversyMedia)
+* [HTML & CSS Full Course - Beginner to Pro (2022)](https://www.youtube.com/watch?v=G3e-cpL7ofc)
+* [DOM Manipulation](https://www.youtube.com/watch?v=5fb2aPlgoys)
+* Traversy Media
+  * [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
+  * [Build an HTML5 Website](https://www.youtube.com/watch?v=Wm6CUkswsNw)
+  * [Build a Responsive Website](https://www.youtube.com/watch?v=p0bGHP-PXD4)
+
+### Websites
+* [Free Code Camp](https://www.freecodecamp.org/)
+* [Code Pen](https://codepen.io/)
+* MDN tutorials for HTML/CSS/JavaScript
+  * [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
+  * [Front-End Web Developer](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
+  * [Getting Started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+  * [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+  * [JavaScript First Steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+  * [A First Splash into JavaScript (Guess the Number Game)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
+  * [Silly Story Generator](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator)
+* [W3 Schools](https://www.w3schools.com/)
+
+### Books
+* [Web Development Essentials](https://learning.lpi.org/en/learning-materials/030-100/)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
+### Other resources
+* [Coolers](https://coolors.co/)
+* [Favicon.cc](https://www.favicon.cc/)
+* [Pexels](https://www.pexels.com/)
 
 
 ### Example games
-* Universal paperclips
+* [Universal paperclips](https://www.decisionproblem.com/paperclips/)
 
 
+## Synth Music
+
+### Videos
+* [Intro To Synthesis Part 1: Oscillators | Reverb Learn To Play](https://www.youtube.com/watch?v=xyVFIPtOsm8)
+* [Intro To Synthesis Part 2: Shaping Multiple Oscillators | Reverb Learn To Play](https://www.youtube.com/watch?v=X76j7v6n-V8)
+* [Synthesizer Basics: Amplitude, Oscillators, Timbre | Music Production | Berklee Online](https://www.youtube.com/watch?v=c3udLCvoCC0)
+* [Sound Design and Synth Fundamentals](https://www.youtube.com/watch?v=NJLIS2MkFe4)
+* [Advanced Sound Design and Synths Tutorial](https://www.youtube.com/watch?v=tlygYWeOzTg)
+* Intro to Synthesis - old (but very good) videos from the 80s
+  * [Part 1](https://www.youtube.com/watch?v=atvtBE6t48M)
+  * [Part 2](https://www.youtube.com/watch?v=gJkxGvhOS-M)
+  * [Part 3](https://www.youtube.com/watch?v=zK3m8sMkTE4)
+* [10 Synth Riffs That Shook the World](https://www.youtube.com/watch?v=L_Kk32lWiJY)
+* [Introduction to Sonic Pi (playlist)](https://www.youtube.com/playlist?list=PLaitaNxyd8SHvTQjRGnMdKLsARXW7iYyp)
