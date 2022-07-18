@@ -28,6 +28,9 @@ git config [--global] user.email
 # Configure username and email
 git config [--global] user.name {name}
 git config [--global] user.email {email}
+
+# unset something in git config
+git config [--global] --unset credential.helper
 ```
 
 ## Create or clone repo

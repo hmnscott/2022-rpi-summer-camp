@@ -108,6 +108,7 @@
   * [A First Splash into JavaScript (Guess the Number Game)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
   * [Silly Story Generator](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator)
 * [W3 Schools](https://www.w3schools.com/)
+* [Learn JavaScript Online](https://learnjavascript.online/)
 
 ### Books
 * [Web Development Essentials](https://learning.lpi.org/en/learning-materials/030-100/)
