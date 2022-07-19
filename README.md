@@ -1,6 +1,5 @@
 # 2022 Raspberry Pi Summer Camp
 
-Welcome to Raspberry Pi summer camp!
 
 
 
