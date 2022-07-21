@@ -1,6 +1,7 @@
 # Electronics Resources
 
 * [Monk Makes kit instructions](http://monkmakes.com/downloads/pi_box_1a.pdf)
+* [Jameco kit](https://www.jameco.com/Jameco/Products/ProdDS/2246637KitInstructions.pdf)
 * [4 Band Resistor Color Code Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code)
 * [LED Series Resistor Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-led-series-resistor)
 
