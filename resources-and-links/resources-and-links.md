@@ -1,5 +1,33 @@
 # Resources and Links
 
+- [Resources and Links](#resources-and-links)
+  - [Raspberry Pi](#raspberry-pi)
+    - [Websites](#websites)
+    - [Magazines](#magazines)
+  - [Other resources for making and coding](#other-resources-for-making-and-coding)
+  - [Linux](#linux)
+    - [Videos](#videos)
+    - [Books](#books)
+  - [Python](#python)
+    - [Books](#books)
+    - [Cheat Sheets](#cheat-sheets)
+    - [Coding challenges](#coding-challenges)
+    - [Example Games](#example-games)
+  - [Computer Science](#computer-science)
+    - [Cybersecurity](#cybersecurity)
+    - [Hacking Games](#hacking-games)
+  - [Git](#git)
+    - [Videos](#videos)
+  - [Web development](#web-development)
+    - [Videos](#videos)
+    - [Websites](#websites)
+    - [Books](#books)
+    - [Other resources](#other-resources)
+    - [Example games](#example-games)
+  - [Synth Music](#synth-music)
+    - [Videos](#videos)
+
+
 ## Raspberry Pi
 
 ### Websites

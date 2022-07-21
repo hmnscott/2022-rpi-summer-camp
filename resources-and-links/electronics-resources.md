@@ -1,10 +1,13 @@
 # Electronics Resources
 
+* [Monk Makes kit instructions](http://monkmakes.com/downloads/pi_box_1a.pdf)
 * [4 Band Resistor Color Code Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code)
 * [LED Series Resistor Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-led-series-resistor)
 
 ## Example projects
 * Stranger Things phone
+  * [Tom's Hardware article](https://www.tomshardware.com/news/raspberry-pi-stranger-things-phone)
+  * [Adafruit article](https://blog.adafruit.com/2022/05/20/raspberry-pi-stranger-things-phone-prop-designed-for-season-4-premiere-piday-raspberrypi-raspberry_pi/)
 
 ## Videos
 * [Engineering Circuits - Vol 1 (playlist)](https://www.youtube.com/playlist?list=PLnVYEpTNGNtUSjEEYf01D-q4ExTO960sG)
