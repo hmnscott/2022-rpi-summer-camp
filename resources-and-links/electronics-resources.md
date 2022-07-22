@@ -18,7 +18,7 @@
 * [Electronics for Kids](https://www.amazon.com/Electronics-Kids-Circuits-Experiment-Electricity/dp/1593277253/)
   * [Component kit](https://www.jameco.com/z/KIT-EFK-BUNDLE-Jameco-Kitpro-Components-Bundle-for-Electronics-for-Kids-Book_2244720.html)
 * [Make: Electronics: Learning Through Discovery - 2nd Edition](https://www.amazon.com/Make-Electronics-Learning-Through-Discovery/dp/1680450263/)
-  * [Component kit for 2nd edition](https://www.amazon.com/ProTechTrader-Make-Electronics-Component-Educational/dp/B01EKO6FYQ?th=1)
+  * [Component kit for 2nd edition](https://www.amazon.com/ProTechTrader-Make-Electronics-Component-Educational/dp/B01EKO6FYQ/)
 * [The Crafty Kids Guide to DIY Electronics](https://www.amazon.com/Crafty-Kids-Guide-DIY-Electronics/dp/1260142833/)
 * [The Maker's Guide to the Zombie Apocalypse](https://www.amazon.com/Makers-Guide-Zombie-Apocalypse-Raspberry-dp-1593276672/dp/1593276672/)
 * [A Beginner's Guide to Circuits: Nine Simple Projects with Lights, Sounds, and More!](https://www.amazon.com/Beginners-Guide-Circuits-Simple-Projects/dp/1593279043/)
