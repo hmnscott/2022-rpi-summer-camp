@@ -217,3 +217,17 @@ git revert master~2
 ```
 
 Note, you can checkout a previous commit and create a new branch with `git branch {new branch name}`.
+
+
+## A better git log
+The below if from the article [A better git log](https://coderwall.com/p/euwpig/a-better-git-log).
+
+Copy and paste the line below on your terminal:
+```
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+```
+
+And every time you need to see your log, just type in
+```bash
+git lg
+```

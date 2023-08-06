@@ -292,6 +292,9 @@ fizzbuzz
 
 * [Convert text to ascii art](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 
+### Pygame zero
+* [Pygame zero - tutorials and resources](https://pygame-zero.readthedocs.io/en/stable/resources.html)
+
 
 ### Example games and game software
 * [80 Days](https://www.youtube.com/watch?v=D2CWdaJTikQ)
